@@ -1,0 +1,36 @@
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Avalonia/resources
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Avalonia/references
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Avalonia/original.dll
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Avalonia/original.pdb
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Avalonia/original.ref.dll
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/stud/Рабочий стол/Visual_programming-main/lab_3/Calculator/obj/Debug/net7.0/ref/Calculator.dll
+C:\Users\ekate\раб\lab_3\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\ekate\раб\lab_3\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\ekate\раб\lab_3\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Avalonia\resources
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Avalonia\references
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Avalonia\original.dll
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Avalonia\original.pdb
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Avalonia\original.ref.dll
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\ekate\раб\lab_3\Calculator\obj\Debug\net7.0\ref\Calculator.dll
